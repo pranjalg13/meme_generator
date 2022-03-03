@@ -4,8 +4,8 @@ services:
   web:
     build: .
     command: bash -c "python3 manage.py makemigrations && python3 manage.py migrate && python3 manage.py runserver 0.0.0.0:8081"
-    container_name: xmeme_app
+    container_name: genmeme_app
     volumes:
-      - .:/xmeme
+      - .:/genmeme
     ports:
       - "8081:8081"

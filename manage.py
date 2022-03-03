@@ -7,7 +7,7 @@ runserver.default_port = "8081"
 
 
 def main():
-    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'xmeme.settings')
+    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'genmeme.settings')
     try:
         from django.core.management import execute_from_command_line
     except ImportError as exc:
