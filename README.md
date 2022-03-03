@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-[GenMeme](https://xmeme.pythonanywhere.com/) is a meme streaming application which lets you post your faviorite memes with just name, caption and URL of the image.
+GenMeme is a meme streaming application which lets you post your faviorite memes with just name, caption and URL of the image.
 GenMeme is made with simple HTML,CSS and javascript and Django as a framework, it is using a sqlite database. The API endpoints are made using Django-Rest framework and similarly Swagger-UI is made using rest-swagger frameowrk.
 
 ![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white") ![Javscript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
